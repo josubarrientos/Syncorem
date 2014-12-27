@@ -1,0 +1,149 @@
+1[DIR];sync;/home/josu/Escritorio/Directorios a sincronizar/2/sync;05/08/2014 22:15:29
+11[DIR];Codigos;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos;05/08/2014 22:06:40
+111[DIR];Prueba AnalizaDirectorio;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio;05/08/2014 22:06:40
+1111[FILE];.classpath;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/.classpath;05/07/2014 17:38:42
+1112[FILE];.project;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/.project;05/07/2014 17:58:44
+1113[DIR];.settings;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/.settings;05/08/2014 22:06:40
+11131[FILE];org.eclipse.jdt.core.prefs;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/.settings/org.eclipse.jdt.core.prefs;05/07/2014 17:38:42
+1114[DIR];Registro;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/Registro;05/08/2014 22:06:40
+11141[FILE];ListadoEXT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/Registro/ListadoEXT;05/07/2014 17:52:32
+11142[FILE];ListadoINT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/Registro/ListadoINT;05/07/2014 17:52:32
+1115[DIR];bin;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/bin;05/08/2014 22:06:40
+11151[FILE];IO.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/bin/IO.class;05/07/2014 17:58:45
+11152[FILE];ejecutador.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/bin/ejecutador.class;05/07/2014 17:58:45
+11153[FILE];metodo.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/bin/metodo.class;05/07/2014 17:58:45
+1116[DIR];src;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/src;05/08/2014 22:06:40
+11161[FILE];IO.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/src/IO.java;02/17/2014 17:32:54
+11162[FILE];ejecutador.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/src/ejecutador.java;05/07/2014 17:48:42
+11163[FILE];metodo.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba AnalizaDirectorio/src/metodo.java;05/07/2014 17:52:00
+112[DIR];Prueba BuscaUSB;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB;05/07/2014 18:00:52
+1121[FILE];.classpath;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/.classpath;05/07/2014 17:38:42
+1122[FILE];.project;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/.project;05/07/2014 18:00:52
+1123[DIR];.settings;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/.settings;05/07/2014 18:00:52
+11231[FILE];org.eclipse.jdt.core.prefs;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/.settings/org.eclipse.jdt.core.prefs;05/07/2014 17:38:42
+1124[DIR];Registro;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/Registro;05/07/2014 18:00:52
+11241[FILE];ListadoEXT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/Registro/ListadoEXT;05/07/2014 17:52:32
+11242[FILE];ListadoINT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/Registro/ListadoINT;05/07/2014 17:52:32
+1125[DIR];bin;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/bin;05/07/2014 18:06:19
+11251[FILE];ejecutador.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/bin/ejecutador.class;05/07/2014 18:16:13
+11252[FILE];metodo.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/bin/metodo.class;05/07/2014 18:10:22
+1126[DIR];src;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/src;05/07/2014 18:06:19
+11261[FILE];ejecutador.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/src/ejecutador.java;05/07/2014 18:16:13
+11262[FILE];metodo.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba BuscaUSB/src/metodo.java;05/07/2014 18:10:22
+113[DIR];Prueba Comparador;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador;05/07/2014 18:10:38
+1131[FILE];.classpath;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/.classpath;05/07/2014 17:38:42
+1132[FILE];.project;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/.project;05/07/2014 18:10:38
+1133[DIR];.settings;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/.settings;05/07/2014 18:10:38
+11331[FILE];org.eclipse.jdt.core.prefs;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/.settings/org.eclipse.jdt.core.prefs;05/07/2014 17:38:42
+1134[DIR];Registro;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/Registro;05/07/2014 18:18:25
+11341[FILE];ListadoEXT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/Registro/ListadoEXT;05/07/2014 17:52:32
+11342[FILE];ListadoINT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/Registro/ListadoINT;05/07/2014 17:52:32
+11343[FILE];diff;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/Registro/diff;05/07/2014 18:18:34
+1135[DIR];bin;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/bin;05/07/2014 18:10:39
+11351[FILE];ejecutador.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/bin/ejecutador.class;05/07/2014 18:18:06
+11352[FILE];metodo.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/bin/metodo.class;05/07/2014 18:15:41
+1136[DIR];src;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/src;05/07/2014 18:10:38
+11361[FILE];ejecutador.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/src/ejecutador.java;05/07/2014 18:18:06
+11362[FILE];metodo.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Comparador/src/metodo.java;05/07/2014 18:15:41
+114[DIR];Prueba Copiador;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador;05/07/2014 18:43:46
+1141[FILE];.classpath;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/.classpath;05/07/2014 18:25:40
+1142[FILE];.project;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/.project;05/07/2014 18:43:46
+1143[DIR];.settings;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/.settings;05/07/2014 18:43:45
+11431[FILE];org.eclipse.jdt.core.prefs;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/.settings/org.eclipse.jdt.core.prefs;05/07/2014 17:38:42
+1144[DIR];Registro;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/Registro;05/07/2014 18:43:45
+11441[FILE];ListadoEXT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/Registro/ListadoEXT;05/07/2014 17:52:32
+11442[FILE];ListadoINT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/Registro/ListadoINT;05/07/2014 17:52:32
+11443[FILE];copiado;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/Registro/copiado;05/07/2014 18:39:54
+11444[FILE];diff;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/Registro/diff;05/07/2014 18:39:44
+11445[FILE];diff~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/Registro/diff~;05/07/2014 18:39:44
+11446[FILE];paths;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/Registro/paths;05/07/2014 18:39:54
+1145[DIR];bin;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/bin;05/07/2014 18:43:46
+11451[FILE];ejecutador.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/bin/ejecutador.class;05/07/2014 18:46:40
+11452[FILE];metodo.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/bin/metodo.class;05/07/2014 18:49:44
+1146[DIR];src;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/src;05/07/2014 18:43:46
+11461[FILE];ejecutador.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/src/ejecutador.java;05/07/2014 18:46:40
+11462[FILE];metodo.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Copiador/src/metodo.java;05/07/2014 18:49:44
+115[DIR];Prueba Parseador;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador;05/07/2014 18:26:59
+1151[FILE];.classpath;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/.classpath;05/07/2014 18:25:40
+1152[FILE];.project;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/.project;05/07/2014 18:26:59
+1153[DIR];.settings;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/.settings;05/07/2014 18:26:59
+11531[FILE];org.eclipse.jdt.core.prefs;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/.settings/org.eclipse.jdt.core.prefs;05/07/2014 17:38:42
+1154[DIR];Registro;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/Registro;05/07/2014 18:39:54
+11541[FILE];ListadoEXT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/Registro/ListadoEXT;05/07/2014 17:52:32
+11542[FILE];ListadoINT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/Registro/ListadoINT;05/07/2014 17:52:32
+11543[FILE];copiado;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/Registro/copiado;05/07/2014 18:39:54
+11544[FILE];diff;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/Registro/diff;05/07/2014 18:39:44
+11545[FILE];diff~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/Registro/diff~;05/07/2014 18:39:44
+11546[FILE];paths;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/Registro/paths;05/07/2014 18:39:54
+1155[DIR];bin;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/bin;05/07/2014 18:27:00
+11551[FILE];ejecutador.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/bin/ejecutador.class;05/07/2014 18:30:01
+11552[FILE];metodo.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/bin/metodo.class;05/07/2014 18:39:54
+1156[DIR];src;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/src;05/07/2014 18:26:59
+11561[FILE];ejecutador.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/src/ejecutador.java;05/07/2014 18:30:01
+11562[FILE];metodo.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/Prueba Parseador/src/metodo.java;05/07/2014 18:39:54
+116[DIR];SyncoremGUI;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI;05/06/2014 13:05:34
+1161[FILE];.classpath;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/.classpath;05/06/2014 12:46:44
+1162[FILE];.project;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/.project;05/06/2014 12:46:44
+1163[DIR];.settings;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/.settings;05/06/2014 12:46:44
+11631[FILE];org.eclipse.jdt.core.prefs;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/.settings/org.eclipse.jdt.core.prefs;05/06/2014 12:46:44
+1164[DIR];RegistroSyncorem;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem;05/07/2014 18:55:11
+11641[FILE];Ayuda;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/Ayuda;05/06/2014 12:42:53
+11642[FILE];Ayuda~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/Ayuda~;05/06/2014 12:40:32
+11643[FILE];ListadoEXT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/ListadoEXT;05/05/2014 23:56:06
+11644[FILE];ListadoEXT~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/ListadoEXT~;04/30/2014 15:17:11
+11645[FILE];ListadoINT;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/ListadoINT;05/05/2014 23:56:06
+11646[FILE];ListadoINT~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/ListadoINT~;04/30/2014 15:17:11
+11647[FILE];Listado~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/Listado~;03/10/2014 17:09:36
+11648[FILE];Vinculados;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/Vinculados;05/07/2014 18:57:32
+11649[FILE];Vinculados~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/Vinculados~;05/05/2014 23:44:01
+116410[FILE];copiadir.sh;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/copiadir.sh;04/30/2014 22:05:53
+116411[FILE];copiadir.sh~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/copiadir.sh~;04/30/2014 21:19:45
+116412[FILE];copiado;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/copiado;05/05/2014 23:56:06
+116413[FILE];copiado~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/copiado~;04/30/2014 15:24:53
+116414[FILE];copiafile.sh;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/copiafile.sh;04/30/2014 21:19:54
+116415[FILE];copiafile.sh~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/copiafile.sh~;04/28/2014 16:51:01
+116416[FILE];diff;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/diff;05/05/2014 23:56:06
+116417[FILE];diff~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/diff~;04/30/2014 15:24:44
+116418[FILE];paths;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/paths;05/05/2014 23:56:06
+116419[FILE];pruebas~;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/RegistroSyncorem/pruebas~;04/25/2014 19:55:58
+1165[FILE];SYNCOREMGUI.jar;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/SYNCOREMGUI.jar;05/06/2014 13:04:18
+1166[DIR];bin;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin;05/07/2014 14:05:27
+11661[DIR];interSync;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync;05/07/2014 14:05:27
+116611[FILE];Asociacion.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Asociacion.class;05/07/2014 14:05:27
+116612[FILE];BuscaUSB.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/BuscaUSB.class;05/07/2014 14:05:27
+116613[FILE];FileChooser.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/FileChooser.class;05/07/2014 14:05:27
+116614[FILE];Inicio$1.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio$1.class;05/07/2014 14:05:27
+116615[FILE];Inicio$2.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio$2.class;05/07/2014 14:05:27
+116616[FILE];Inicio$3.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio$3.class;05/07/2014 14:05:27
+116617[FILE];Inicio$4.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio$4.class;05/07/2014 14:05:27
+116618[FILE];Inicio$5.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio$5.class;05/07/2014 14:05:27
+116619[FILE];Inicio$6.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio$6.class;05/07/2014 14:05:27
+1166110[FILE];Inicio.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio.class;05/07/2014 14:05:27
+1166111[FILE];Inicio.form;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Inicio.form;05/06/2014 13:02:28
+1166112[FILE];SeleccionUSB$1.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SeleccionUSB$1.class;05/07/2014 14:05:27
+1166113[FILE];SeleccionUSB$2.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SeleccionUSB$2.class;05/07/2014 14:05:27
+1166114[FILE];SeleccionUSB$3.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SeleccionUSB$3.class;05/07/2014 14:05:27
+1166115[FILE];SeleccionUSB$4$1.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SeleccionUSB$4$1.class;05/07/2014 14:05:27
+1166116[FILE];SeleccionUSB$4.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SeleccionUSB$4.class;05/07/2014 14:05:27
+1166117[FILE];SeleccionUSB.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SeleccionUSB.class;05/07/2014 14:05:27
+1166118[FILE];SeleccionUSB.form;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SeleccionUSB.form;03/31/2014 17:47:24
+1166119[FILE];SimpleOutput.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/SimpleOutput.class;05/07/2014 14:05:27
+1166120[FILE];Utilidades.class;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/bin/interSync/Utilidades.class;05/07/2014 14:05:27
+1167[DIR];src;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src;05/06/2014 13:02:57
+11671[DIR];interSync;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync;05/05/2014 22:17:32
+116711[FILE];Asociacion.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/Asociacion.java;04/07/2014 17:01:42
+116712[FILE];BuscaUSB.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/BuscaUSB.java;04/07/2014 17:01:46
+116713[FILE];FileChooser.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/FileChooser.java;04/07/2014 17:01:46
+116714[FILE];Inicio.form;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/Inicio.form;05/06/2014 13:02:28
+116715[FILE];Inicio.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/Inicio.java;05/06/2014 13:02:28
+116716[FILE];SeleccionUSB.form;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/SeleccionUSB.form;03/31/2014 17:47:24
+116717[FILE];SeleccionUSB.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/SeleccionUSB.java;04/07/2014 17:01:46
+116718[FILE];SimpleOutput.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/SimpleOutput.java;04/07/2014 17:01:46
+116719[FILE];Utilidades.java;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Codigos/SyncoremGUI/src/interSync/Utilidades.java;05/06/2014 12:42:26
+12[DIR];Libros;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Libros;05/08/2014 21:44:34
+121[DIR];Libros seguridad;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Libros/Libros seguridad;05/08/2014 22:06:40
+1211[FILE];Fundamentos y aplicaciones de Seguridad en redes.pdf;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Libros/Libros seguridad/Fundamentos y aplicaciones de Seguridad en redes.pdf;11/01/2013 18:12:32
+1212[FILE];Network-Security-Essentials-Applications-and-Standards.pdf;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Libros/Libros seguridad/Network-Security-Essentials-Applications-and-Standards.pdf;07/22/2013 19:19:00
+1213[FILE];Redes y conectividad.pdf;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Libros/Libros seguridad/Redes y conectividad.pdf;09/29/2013 13:31:12
+1214[FILE];SEGURIDAD EN REDES WI-FI.pdf;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Libros/Libros seguridad/SEGURIDAD EN REDES WI-FI.pdf;11/01/2013 18:01:28
+1215[FILE];WLAN_Access_Control.pdf;/home/josu/Escritorio/Directorios a sincronizar/2/sync/Libros/Libros seguridad/WLAN_Access_Control.pdf;11/01/2013 13:24:34

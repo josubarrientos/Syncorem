@@ -1,0 +1,61 @@
+/media/LG/data/WIDS;to;/home/josu/Escritorio/sinco/data/
+/media/LG/data/WIDS/WIDSDrone/src;to;/home/josu/Escritorio/sinco/data/WIDS/WIDSDrone/
+/media/LG/data/WIDS/WIDSDrone/bin;to;/home/josu/Escritorio/sinco/data/WIDS/WIDSDrone/
+/media/LG/data/WIDS/WIDSDrone/.settings;to;/home/josu/Escritorio/sinco/data/WIDS/WIDSDrone/
+/media/LG/data/WIDS/WIDSDrone/.classpath;to;/home/josu/Escritorio/sinco/data/WIDS/WIDSDrone/
+/media/LG/data/WIDS/KismetCo;to;/home/josu/Escritorio/sinco/data/WIDS/
+/media/LG/data/WIDS/KismetCo/src;to;/home/josu/Escritorio/sinco/data/WIDS/KismetCo/
+/media/LG/data/WIDS/KismetCo/bin;to;/home/josu/Escritorio/sinco/data/WIDS/KismetCo/
+/media/LG/data/WIDS/KismetCo/.settings;to;/home/josu/Escritorio/sinco/data/WIDS/KismetCo/
+/media/LG/data/WIDS/Actuador;to;/home/josu/Escritorio/sinco/data/WIDS/
+/media/LG/data/WIDS/Actuador/src;to;/home/josu/Escritorio/sinco/data/WIDS/Actuador/
+/media/LG/data/WIDS/Actuador/bin;to;/home/josu/Escritorio/sinco/data/WIDS/Actuador/
+/media/LG/data/WIDS/Actuador/.settings;to;/home/josu/Escritorio/sinco/data/WIDS/Actuador/
+/media/LG/data/Matematicas;to;/home/josu/Escritorio/sinco/data/
+/media/LG/data/Castellano;to;/home/josu/Escritorio/sinco/data/
+/media/LG/data/Castellano/Teoría;to;/home/josu/Escritorio/sinco/data/Castellano/
+/media/LG/data/Castellano/Problemas;to;/home/josu/Escritorio/sinco/data/Castellano/
+/home/josu/Escritorio/sinco/data/WIDS_Josu_corr_boli (1).pdf;to;/media/LG/data/
+/home/josu/Escritorio/sinco/data/WIDS/WIDSDrone;to;/media/LG/data/WIDS/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/src/KismetCo.java;to;/media/LG/data/WIDS/KismetCo/src/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/src/APdeauth.java;to;/media/LG/data/WIDS/KismetCo/src/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/src/APRogue.java;to;/media/LG/data/WIDS/KismetCo/src/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/bin/KismetCo.class;to;/media/LG/data/WIDS/KismetCo/bin/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/bin/APdeauth.class;to;/media/LG/data/WIDS/KismetCo/bin/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/bin/APRogue.class;to;/media/LG/data/WIDS/KismetCo/bin/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/.settings/org.eclipse.jdt.core.prefs;to;/media/LG/data/WIDS/KismetCo/.settings/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/.project;to;/media/LG/data/WIDS/KismetCo/
+/home/josu/Escritorio/sinco/data/WIDS/KismetCo/.classpath;to;/media/LG/data/WIDS/KismetCo/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/src/controlador.java;to;/media/LG/data/WIDS/Actuador/src/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/src/ataque.java;to;/media/LG/data/WIDS/Actuador/src/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/src/actuador.java;to;/media/LG/data/WIDS/Actuador/src/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/bin/controlador.class;to;/media/LG/data/WIDS/Actuador/bin/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/bin/controlador$1.class;to;/media/LG/data/WIDS/Actuador/bin/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/bin/ataque.class;to;/media/LG/data/WIDS/Actuador/bin/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/bin/actuador.class;to;/media/LG/data/WIDS/Actuador/bin/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/.settings/org.eclipse.jdt.core.prefs;to;/media/LG/data/WIDS/Actuador/.settings/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/.project;to;/media/LG/data/WIDS/Actuador/
+/home/josu/Escritorio/sinco/data/WIDS/Actuador/.classpath;to;/media/LG/data/WIDS/Actuador/
+/home/josu/Escritorio/sinco/data/Matematicas/Tabla de áreas y volúmenes.pdf;to;/media/LG/data/Matematicas/
+/home/josu/Escritorio/sinco/data/Estado del arte y Arquitectura;to;/media/LG/data/
+/home/josu/Escritorio/sinco/data/Estado del arte y Arquitectura/Revisión del Estado del arte y Propuesta de Arquitectura de WIDS Josu Barrientos.pdf;to;/media/LG/data/Estado del arte y Arquitectura/
+/home/josu/Escritorio/sinco/data/Estado del arte y Arquitectura/Revisión del Estado del arte y Propuesta de Arquitectura de WIDS Josu Barrientos.docx;to;/media/LG/data/Estado del arte y Arquitectura/
+/home/josu/Escritorio/sinco/data/Estado del arte y Arquitectura/Estado del arte.docx;to;/media/LG/data/Estado del arte y Arquitectura/
+/home/josu/Escritorio/sinco/data/Estado del arte y Arquitectura/Estado del arte y Arquitectura WIDS Version antigua.docx;to;/media/LG/data/Estado del arte y Arquitectura/
+/home/josu/Escritorio/sinco/data/Estado del arte y Arquitectura/Estado del arte y Arquitectura WIDS Completo version antigua.pdf;to;/media/LG/data/Estado del arte y Arquitectura/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Oraciones con verbo pronominal.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Oracines copulativas y predicativas.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Objeto indirecto y complemento circunstancial.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Objeto directo y compemento preposicional.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Los complementos.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/La oracion.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/El sujeto Oraciones Impersonales.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/El predicado.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Diptongo, triptongo e hiato.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Complemento del verbo y del sustantivo.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Analisis de la oracion simple.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Teoría/Acentuación diacrítica.pdf;to;/media/LG/data/Castellano/Teoría/
+/home/josu/Escritorio/sinco/data/Castellano/Problemas/Analisis sintácticos completo.pdf;to;/media/LG/data/Castellano/Problemas/
+/home/josu/Escritorio/sinco/data/Castellano/Problemas/Analisis sintactico y mofologico.pdf;to;/media/LG/data/Castellano/Problemas/
+/home/josu/Escritorio/sinco/data/Castellano/Problemas/Analisis simple.pdf;to;/media/LG/data/Castellano/Problemas/
+/home/josu/Escritorio/sinco/data/Castellano/Problemas/Analisis de predicados.pdf;to;/media/LG/data/Castellano/Problemas/
